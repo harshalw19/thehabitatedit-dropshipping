@@ -1,2 +1,2 @@
-./backend linguist-vendored
-./view linguist-vendored
+backend/ linguist-vendored
+view/ linguist-vendored
